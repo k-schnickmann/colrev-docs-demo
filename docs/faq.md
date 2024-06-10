@@ -1,7 +1,8 @@
 ---
 title: FAQ
 layout: default
-nav_order: 3
+parent: Home
+nav_order: 6
 ---
 
 # FAQ
